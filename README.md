@@ -4,7 +4,7 @@
 
  [![npm](https://img.shields.io/npm/dt/node-red-contrib-huemagic.svg?style=flat-square)](https://www.npmjs.com/package/node-red-contrib-talib) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZS8DFCHWMYCB8&source=url) [![npm](https://img.shields.io/npm/v/node-red-contrib-huemagic.svg?style=flat-square)](https://github.com/masalinas/node-red-contrib-talib/) [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg?style=flat-square)](https://raw.githubusercontent.com/masalinas/node-red-contrib-talib/master/LICENSE)
 
-TA-Lib is a Technical Analysis Library for traiding
+TA-Lib is a Technical Analysis Library for trading
 
   - Type some Markdown on the left
   - See HTML in the right
@@ -56,4 +56,4 @@ _For more information check ofitial TA-Lib homepage: [TA-Lib](https://www.ta-lib
 - [STOCHRSI - Money Flow Index : ((price/prevPrice)-1)*100](https://www.ta-lib.org/function.html)
 - [TRIX - 1-day Rate-Of-Change (ROC) of a Triple Smooth EMA : ((price/prevPrice)-1)*100](https://www.ta-lib.org/function.html)
 - [ULTOSC - Ultimate Oscillator : ((price/prevPrice)-1)*100](https://www.ta-lib.org/function.html)
-- [WILLR - Williams' %R : ((price/prevPrice)-1)*100](https://www.ta-lib.org/function.html)  
+- [WILLR - Williams' %R : ((price/prevPrice)-1)*100](https://www.ta-lib.org/function.html)
