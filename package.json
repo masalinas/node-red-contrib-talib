@@ -10,7 +10,7 @@
   "author": "Miguel Salinas Gancedo",
   "license": "Apache License, Version 2.0",
   "dependencies": {
-    "talib": "^1.0.3"
+    "talib": "^1.0.4"
   },
   "node-red": {
     "nodes": {
