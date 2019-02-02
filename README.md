@@ -17,8 +17,8 @@ For more information check ofitial TA-Lib homepage: [TA-Lib](https://www.ta-lib.
 
 ### Available Nodes
 ##### Volume Indicator
-- [AD - Chaikin A/D Line: AD](https://www.ta-lib.org/function.html)
-- [ADOSC - Chaikin A/D Oscillator: ADOSC](https://www.ta-lib.org/function.html)
+- [AD - Chaikin A/D Line](https://www.ta-lib.org/function.html)
+- [ADOSC - Chaikin A/D Oscillator](https://www.ta-lib.org/function.html)
 - [OBV - Normalized Average True Range](https://www.ta-lib.org/function.html)
 ##### Momentum Indicator
 - [ADX - Average Directional Movement Index](https://www.ta-lib.org/function.html)
