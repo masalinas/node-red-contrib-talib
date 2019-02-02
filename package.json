@@ -1,10 +1,10 @@
 {
   "name": "node-red-contrib-talib",
   "version": "0.0.1",
-  "description": "node-red node-talib",
+  "description": "TA-Lib nodes for node-RED",
   "keywords": [
-    "node-talib",
     "node-red",
+    "TA-Lib",
     "trading"
   ],
   "author": "Miguel Salinas Gancedo",
