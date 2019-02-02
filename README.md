@@ -4,7 +4,7 @@
 
  [![npm](https://img.shields.io/npm/dt/node-red-contrib-huemagic.svg?style=flat-square)](https://www.npmjs.com/package/node-red-contrib-talib) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZS8DFCHWMYCB8&source=url) [![npm](https://img.shields.io/npm/v/node-red-contrib-huemagic.svg?style=flat-square)](https://github.com/masalinas/node-red-contrib-talib/) [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg?style=flat-square)](https://raw.githubusercontent.com/masalinas/node-red-contrib-talib/master/LICENSE)
 
-TA-Lib is a Technical Analysis Library for trading:
+TA-Lib RED are wrapper nodes for TA-Lib a Technical Analysis Library for trading:
 
 - Includes 200 indicators such as ADX, MACD, RSI, Stochastic, Bollinger Bands etc.. ([more info](https://www.ta-lib.org/function.html))
 - Candlestick pattern recognition
