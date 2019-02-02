@@ -7,8 +7,8 @@
 TA-Lib is a Technical Analysis Library for trading
 
 ### Installation
-TA-Lib RED was written for **Node.js 8.9+** and Node-RED v0.17.5+. It supports talib javascript API version v1.0.4+ from [TA-Lib](https://www.ta-lib.org/) library.
-_For more information check ofitial TA-Lib homepage: [TA-Lib](https://www.ta-lib.org/)
+TA-Lib RED was written for **Node.js 8.9+** and **Node-RED v0.17.5+**. It supports talib javascript API version v1.0.4+ from [TA-Lib](https://www.ta-lib.org/) library.
+For more information check ofitial TA-Lib homepage: [TA-Lib](https://www.ta-lib.org/)
 
 `npm install node-red-contrib-talib`
 
