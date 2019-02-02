@@ -6,7 +6,7 @@
 
 TA-Lib is a Technical Analysis Library for trading:
 
-- Includes 200 indicators such as ADX, MACD, RSI, Stochastic, Bollinger Bands etc.. ([more info])(https://www.ta-lib.org/function.html)
+- Includes 200 indicators such as ADX, MACD, RSI, Stochastic, Bollinger Bands etc.. ([more info](https://www.ta-lib.org/function.html))
 - Candlestick pattern recognition
 
 ### Installation
