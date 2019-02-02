@@ -160,3 +160,8 @@ For more information check ofitial TA-Lib homepage: [TA-Lib](https://www.ta-lib.
 - [MINMAX - Lowest and highest values over a specified](https://www.ta-lib.org/function.html)
 - [MINMAXINDEX - Indexes of lowest and highest values over a specified period](https://www.ta-lib.org/function.html)
 - [SUM - Summation](https://www.ta-lib.org/function.html)
+
+### Example
+- Under example folder you have all json flows to be imported in your node-red instance. As **TALibIndicators.json** flow is linked to the rest ones, import
+  all flows and at last the **TALibIndicators.json** flow.
+- Also under example folder you have a json datasource calles **marketdata.json** used in the previous TALibIndicators flow to check all TA-Lib node-RED nodes.
